@@ -1,0 +1,19 @@
+Email-Library: https://docs.python.org/3/library/email.html
+
+IMAP: https://medium.com/@juanrosario38/how-to-use-pythons-imaplib-to-check-for-new-emails-continuously-b0c6780d796d
+
+RE: https://www.datacamp.com/tutorial/python-regular-expression-tutorial
+
+BeautifulSoup: https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+
+html2text: https://pypi.org/project/html2text/
+
+imaplib: Connects to email servers
+
+email: Parses email messages
+
+BeautifulSoup: Cleans HTML content
+
+html2text: Converts HTML to readable text
+
+getpass: Securely handles password input
